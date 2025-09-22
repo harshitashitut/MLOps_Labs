@@ -1,1 +1,1 @@
-# MLOps_Labs
+# MLOps Labs
