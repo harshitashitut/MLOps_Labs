@@ -1,6 +1,6 @@
 # MLOps Labs
 
-I learned a TON about Python imports, testing frameworks, and managing virtual environments. And I have always struggled with Git for no reason.😅
+I’ve always struggled with Git for no reason… but this lab forced me to face it head-on, and I’m proud that I finally have a better take on it.😅
 
 ## How to Run the Lab:
 1. Clone the repo.
