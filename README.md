@@ -9,10 +9,10 @@ I learned a TON about Python imports, testing frameworks, and managing virtual e
    - `pytest test/test_pytest.py`
    - `python test/test_unittest.py`
 
-## Personal Notes:
-- I had to dig into Python's sys.path and imports—a super valuable debugging experience!
-- Custom commit history includes fixes for virtual environment usage.
-- Proudly tested everything locally before pushing!
-
+## What I Learned
+- How to fix sys.path import errors by hand.
+- Running and organizing local versus cloud code.
+- The importance of local tests before submitting!
+    
 ## Author:
 Harshita Shitut
