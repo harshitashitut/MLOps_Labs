@@ -70,3 +70,8 @@ The Kibana dashboard includes:
 3. Creating custom visualizations in Kibana
 4. Building monitoring dashboards for ML pipelines
 
+## Result:
+The Dashboard is in progress.
+<img width="1919" height="856" alt="image" src="https://github.com/user-attachments/assets/98da4d5b-4fc4-47f3-8111-1687b6db448f" />
+
+
