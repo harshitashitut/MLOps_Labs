@@ -1,0 +1,50 @@
+2025-11-03 21:54:40,007 - PitchQuest-Pipeline - INFO - Stage 'audio_extraction' completed successfully (video_1)
+2025-11-03 21:54:40,109 - PitchQuest-Pipeline - INFO - Stage 'audio_extraction' completed successfully (video_2)
+2025-11-03 21:54:40,210 - PitchQuest-Pipeline - INFO - Stage 'feedback_generation' completed successfully (video_3)
+2025-11-03 21:54:40,311 - PitchQuest-Pipeline - INFO - Stage 'video_upload' completed successfully (video_4)
+2025-11-03 21:54:40,412 - PitchQuest-Pipeline - INFO - Stage 'transcription' completed successfully (video_5)
+2025-11-03 21:54:40,513 - PitchQuest-Pipeline - INFO - Stage 'transcription' completed successfully (video_6)
+2025-11-03 21:54:40,619 - PitchQuest-Pipeline - INFO - Stage 'transcription' completed successfully (video_7)
+2025-11-03 21:54:40,720 - PitchQuest-Pipeline - INFO - Stage 'audio_extraction' completed successfully (video_8)
+2025-11-03 21:54:40,820 - PitchQuest-Pipeline - INFO - Stage 'transcription' completed successfully (video_9)
+2025-11-03 21:54:40,922 - PitchQuest-Pipeline - INFO - Stage 'video_upload' completed successfully (video_10)
+2025-11-03 21:54:41,023 - PitchQuest-Pipeline - INFO - Stage 'feedback_generation' completed successfully (video_11)
+2025-11-03 21:54:41,124 - PitchQuest-Pipeline - WARNING - Stage 'audio_extraction' completed with warnings (video_12) - slow processing time
+2025-11-03 21:54:41,225 - PitchQuest-Pipeline - WARNING - Stage 'transcription' completed with warnings (video_13) - slow processing time
+2025-11-03 21:54:41,326 - PitchQuest-Pipeline - INFO - Stage 'audio_extraction' completed successfully (video_14)
+2025-11-03 21:54:41,427 - PitchQuest-Pipeline - INFO - Stage 'feedback_generation' completed successfully (video_15)
+2025-11-03 21:54:41,528 - PitchQuest-Pipeline - WARNING - Stage 'audio_extraction' completed with warnings (video_16) - slow processing time
+2025-11-03 21:54:41,629 - PitchQuest-Pipeline - INFO - Stage 'emotion_detection' completed successfully (video_17)
+2025-11-03 21:54:41,730 - PitchQuest-Pipeline - ERROR - Stage 'audio_extraction' failed (video_18) - timeout or model error
+2025-11-03 21:54:41,831 - PitchQuest-Pipeline - INFO - Stage 'emotion_detection' completed successfully (video_19)
+2025-11-03 21:54:41,932 - PitchQuest-Pipeline - INFO - Stage 'audio_extraction' completed successfully (video_20)
+2025-11-03 21:54:42,033 - PitchQuest-Pipeline - INFO - Stage 'emotion_detection' completed successfully (video_21)
+2025-11-03 21:54:42,134 - PitchQuest-Pipeline - INFO - Stage 'feedback_generation' completed successfully (video_22)
+2025-11-03 21:54:42,235 - PitchQuest-Pipeline - INFO - Stage 'emotion_detection' completed successfully (video_23)
+2025-11-03 21:54:42,336 - PitchQuest-Pipeline - INFO - Stage 'feedback_generation' completed successfully (video_24)
+2025-11-03 21:54:42,437 - PitchQuest-Pipeline - INFO - Stage 'video_upload' completed successfully (video_25)
+2025-11-03 21:54:42,538 - PitchQuest-Pipeline - WARNING - Stage 'feedback_generation' completed with warnings (video_26) - slow processing time
+2025-11-03 21:54:42,639 - PitchQuest-Pipeline - INFO - Stage 'transcription' completed successfully (video_27)
+2025-11-03 21:54:42,739 - PitchQuest-Pipeline - INFO - Stage 'video_upload' completed successfully (video_28)
+2025-11-03 21:54:42,840 - PitchQuest-Pipeline - INFO - Stage 'emotion_detection' completed successfully (video_29)
+2025-11-03 21:54:42,942 - PitchQuest-Pipeline - INFO - Stage 'feedback_generation' completed successfully (video_30)
+2025-11-03 21:54:43,043 - PitchQuest-Pipeline - WARNING - Stage 'audio_extraction' completed with warnings (video_31) - slow processing time
+2025-11-03 21:54:43,143 - PitchQuest-Pipeline - INFO - Stage 'feedback_generation' completed successfully (video_32)
+2025-11-03 21:54:43,244 - PitchQuest-Pipeline - ERROR - Stage 'feedback_generation' failed (video_33) - timeout or model error
+2025-11-03 21:54:43,345 - PitchQuest-Pipeline - WARNING - Stage 'audio_extraction' completed with warnings (video_34) - slow processing time
+2025-11-03 21:54:43,446 - PitchQuest-Pipeline - INFO - Stage 'audio_extraction' completed successfully (video_35)
+2025-11-03 21:54:43,547 - PitchQuest-Pipeline - INFO - Stage 'feedback_generation' completed successfully (video_36)
+2025-11-03 21:54:43,649 - PitchQuest-Pipeline - INFO - Stage 'emotion_detection' completed successfully (video_37)
+2025-11-03 21:54:43,750 - PitchQuest-Pipeline - WARNING - Stage 'transcription' completed with warnings (video_38) - slow processing time
+2025-11-03 21:54:43,852 - PitchQuest-Pipeline - INFO - Stage 'feedback_generation' completed successfully (video_39)
+2025-11-03 21:54:43,953 - PitchQuest-Pipeline - WARNING - Stage 'feedback_generation' completed with warnings (video_40) - slow processing time
+2025-11-03 21:54:44,054 - PitchQuest-Pipeline - INFO - Stage 'emotion_detection' completed successfully (video_41)
+2025-11-03 21:54:44,155 - PitchQuest-Pipeline - INFO - Stage 'video_upload' completed successfully (video_42)
+2025-11-03 21:54:44,256 - PitchQuest-Pipeline - INFO - Stage 'feedback_generation' completed successfully (video_43)
+2025-11-03 21:54:44,357 - PitchQuest-Pipeline - WARNING - Stage 'emotion_detection' completed with warnings (video_44) - slow processing time
+2025-11-03 21:54:44,457 - PitchQuest-Pipeline - ERROR - Stage 'audio_extraction' failed (video_45) - timeout or model error
+2025-11-03 21:54:44,558 - PitchQuest-Pipeline - INFO - Stage 'emotion_detection' completed successfully (video_46)
+2025-11-03 21:54:44,660 - PitchQuest-Pipeline - INFO - Stage 'video_upload' completed successfully (video_47)
+2025-11-03 21:54:44,760 - PitchQuest-Pipeline - INFO - Stage 'video_upload' completed successfully (video_48)
+2025-11-03 21:54:44,862 - PitchQuest-Pipeline - INFO - Stage 'transcription' completed successfully (video_49)
+2025-11-03 21:54:44,962 - PitchQuest-Pipeline - WARNING - Stage 'video_upload' completed with warnings (video_50) - slow processing time
