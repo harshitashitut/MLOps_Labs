@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Admin/Desktop/mlops_labs/Experiment_Tracking/mlruns/0/7303b4abe1c546b192f4357b5d0b04b7/artifacts
+end_time: 1763407057726
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7303b4abe1c546b192f4357b5d0b04b7
+run_name: lyrical-shad-902
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763407057643
+status: 3
+tags: []
+user_id: Admin

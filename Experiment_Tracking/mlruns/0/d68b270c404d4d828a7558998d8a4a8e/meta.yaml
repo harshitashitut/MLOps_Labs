@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Admin/Desktop/mlops_labs/Experiment_Tracking/mlruns/0/d68b270c404d4d828a7558998d8a4a8e/artifacts
+end_time: 1763407057592
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d68b270c404d4d828a7558998d8a4a8e
+run_name: angry-cub-290
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763407057508
+status: 3
+tags: []
+user_id: Admin
